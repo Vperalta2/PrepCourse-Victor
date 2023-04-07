@@ -1,2 +1,1 @@
-# PrepCourse-Victor
-Este es un repositorio de prueba del modulo 2 del prepcourse de Victor
+Este proyecto es una prueba de como crear un repositorio y clonarlo desde github a mi computadora
